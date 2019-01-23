@@ -4,11 +4,13 @@ You can see website here: https://shamansarii.github.io/css-conf/
 
 ### WORKSHOP
 
-IDEA - Let's make a super simple quote app appplication that runs on the web. You click in the div and get the information for that div. 
+1. The app is a soft css conf. Css conf only hover. 
 
 ### INGREDIENTS
 
-
-  
+The app MUST use:
+1. Bootstrap
+2. JQuery for Ajax
+ 
 ### SCREENSHOT
 
