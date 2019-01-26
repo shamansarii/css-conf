@@ -2,7 +2,7 @@ CSS CONF
 ---------
 You can see website here: https://shamansarii.github.io/css-conf/
 
-### WORKSHOP
+### APP FEATURES
 
 1. The app is a soft css conf. Css conf only hover. 
 
