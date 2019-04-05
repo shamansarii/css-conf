@@ -16,3 +16,4 @@ The CDNs of all ingredients, along with `script.js` and `style.css` files, have 
  
 ### SCREENSHOT
 
+![css-conf-app](https://user-images.githubusercontent.com/46775349/55644848-83696200-57f0-11e9-8f6c-df7ee75c7ce2.png).
